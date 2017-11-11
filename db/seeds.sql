@@ -1,0 +1,1 @@
+insert into burgers (burger_name, devoured) values ("Triple Bacon Burger", false), ("Royale with Cheese", false), ("Island Burger", false);
